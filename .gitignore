@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.foodai/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS junk files
+.DS_Store
+
+# Environment & secrets
+*.env
+*.db
+*.sqlite3
+diet_recommendation.db
+
+# YOLOv8 model files
+*.pt
+
+# Logs
+*.log
+
+# PDFs or PPTs (optional - keep only if needed)
+*.pdf
+*.ppt
+*.pptx
